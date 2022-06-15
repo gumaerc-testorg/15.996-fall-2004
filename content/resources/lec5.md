@@ -2,7 +2,7 @@
 content_type: resource
 description: 'These lecture notes cover the following topics: Leadership Traits, Leadership
   Styles, Presentation of Student Papers, and Critique of Course.'
-file: /media/courses/15-996-cross-cultural-leadership-fall-2004/998bbb2bb3a1493c3950bfc11e2a1643_lec5.pdf
+file: /courses/15-996-cross-cultural-leadership-fall-2004/998bbb2bb3a1493c3950bfc11e2a1643_lec5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: lec5.pdf
 uid: 998bbb2b-b3a1-493c-3950-bfc11e2a1643
 ---
+These lecture notes cover the following topics: Leadership Traits, Leadership Styles, Presentation of Student Papers, and Critique of Course.
+

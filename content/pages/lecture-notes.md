@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -28,7 +29,7 @@ subtopics
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction and Overview ([PDF]({{< baseurl >}}/resources/lec1))
+Introduction and Overview ({{% resource_link a4b73b7b-1a5c-1fdd-bb6d-77dca70c7847 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Set the baseline. What understanding of leaders and leadership has each of us already acquired? How does that reflect our global experiences?  
@@ -46,7 +47,7 @@ Brief Overview of the Theories and Themes in this Course
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Cultural Styles ([PDF]({{< baseurl >}}/resources/lec2))
+Cultural Styles ({{% resource_link 7ca67139-396e-6820-bd58-8e27f24e0738 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Universalism vs. Particularism  
@@ -66,7 +67,7 @@ Cross-cultural Dialogue
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Social Dimensions ([PDF]({{< baseurl >}}/resources/lec3))
+Social Dimensions ({{% resource_link 0755d75b-5c8c-1988-4b1c-236c1e7bf4c2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Assertiveness  
@@ -86,7 +87,7 @@ Cross-cultural Dialogue
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Orientation to Time and Space ([PDF]({{< baseurl >}}/resources/lec4))
+Orientation to Time and Space ({{% resource_link 46152f06-dc86-cd48-b234-07e75b84acd2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Focus on Past, Present or Future: Short or Long-term Horizon  
@@ -104,7 +105,7 @@ Cross-cultural Dialogue
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Leadership Effectiveness ([PDF]({{< baseurl >}}/resources/lec5))
+Leadership Effectiveness ({{% resource_link 998bbb2b-b3a1-493c-3950-bfc11e2a1643 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Leadership Traits  

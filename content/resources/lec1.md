@@ -5,7 +5,7 @@ description: 'These lecture notes cover the following topics: Set the baseline. 
   that reflect our global experiences?, Identify Teams, Team Introductory Presentation
   of the Team''s Region: Geography, History, Regional Differences, Politics, Economic
   Issues, and Brief Overview of the Theories and Themes in this Course.'
-file: /media/courses/15-996-cross-cultural-leadership-fall-2004/a4b73b7b1a5c1fddbb6d77dca70c7847_lec1.pdf
+file: /courses/15-996-cross-cultural-leadership-fall-2004/a4b73b7b1a5c1fddbb6d77dca70c7847_lec1.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -17,3 +17,5 @@ resourcetype: Document
 title: lec1.pdf
 uid: a4b73b7b-1a5c-1fdd-bb6d-77dca70c7847
 ---
+These lecture notes cover the following topics: Set the baseline. What understanding of leaders and leadership has each of us already acquired? How does that reflect our global experiences?, Identify Teams, Team Introductory Presentation of the Team's Region: Geography, History, Regional Differences, Politics, Economic Issues, and Brief Overview of the Theories and Themes in this Course.
+
