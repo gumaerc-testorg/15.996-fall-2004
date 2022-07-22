@@ -6,6 +6,7 @@ file: /courses/15-996-cross-cultural-leadership-fall-2004/78fe51280ba3630ebfea20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assign1.pdf
 uid: 78fe5128-0ba3-630e-bfea-208896d5ffb4
 ---
 Assignment for the 2nd class of the semester. Includes reading assignment and team project instructions.
-

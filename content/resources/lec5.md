@@ -6,6 +6,7 @@ file: /courses/15-996-cross-cultural-leadership-fall-2004/998bbb2bb3a1493c3950bf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec5.pdf
 uid: 998bbb2b-b3a1-493c-3950-bfc11e2a1643
 ---
 These lecture notes cover the following topics: Leadership Traits, Leadership Styles, Presentation of Student Papers, and Critique of Course.
-
