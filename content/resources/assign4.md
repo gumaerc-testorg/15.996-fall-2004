@@ -3,6 +3,7 @@ content_type: resource
 description: Assignment for the 5th class of the semester. Includes reading assignment
   and team project instructions.
 file: /courses/15-996-cross-cultural-leadership-fall-2004/b0622568f5f2b311a525796eaa64b4a9_assign4.pdf
+file_size: 88143
 file_type: application/pdf
 learning_resource_types:
 - Assignments
