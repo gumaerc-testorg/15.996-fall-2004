@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment for the 4th class of the semester. Includes reading assignment
   and team project instructions.
-file: /ol-ocw-studio-app/courses/15-996-cross-cultural-leadership-fall-2004/99a14fb19d75c71d6bf8f3fca8790281_assign3.pdf
+file: /courses/15-996-cross-cultural-leadership-fall-2004/99a14fb19d75c71d6bf8f3fca8790281_assign3.pdf
 file_size: 111231
 file_type: application/pdf
 learning_resource_types:
