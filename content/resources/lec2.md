@@ -3,7 +3,7 @@ content_type: resource
 description: 'These lecture notes cover the following topics: Universalism vs. Particularism,
   Individualism vs. Collectivism, Neutral vs. Emotional, Achievement vs. Ascription,
   and Cross-cultural Dialogue.'
-file: /courses/15-996-cross-cultural-leadership-fall-2004/7ca67139396e6820bd588e27f24e0738_lec2.pdf
+file: /ol-ocw-studio-app/courses/15-996-cross-cultural-leadership-fall-2004/7ca67139396e6820bd588e27f24e0738_lec2.pdf
 file_size: 146169
 file_type: application/pdf
 learning_resource_types:
