@@ -2,7 +2,7 @@
 content_type: resource
 description: Assignment for the 2nd class of the semester. Includes reading assignment
   and team project instructions.
-file: /courses/15-996-cross-cultural-leadership-fall-2004/78fe51280ba3630ebfea208896d5ffb4_assign1.pdf
+file: /ol-ocw-studio-app/courses/15-996-cross-cultural-leadership-fall-2004/78fe51280ba3630ebfea208896d5ffb4_assign1.pdf
 file_size: 92576
 file_type: application/pdf
 learning_resource_types:
